@@ -5,3 +5,5 @@ export default {
   home: () => '/home',
   myPage: () => '/my_page',
 }
+
+//よろしくです！！
